@@ -1,5 +1,5 @@
 # FAKE-NEWS-DETECTION
-Machine learning Based Minor Project, which uses various classification Algorithms to classify the news into FAKE/REAL, on the basis of their Title and Body-Content. Data has been  collected from 3 different sources and uses algorithms like Random Forest, SVM, Wordtovec and Logistic Regression. It gave 94% accuracy overall, otherwise various comparisons are made from different classification algorithms used.
+Machine learning Based Minor Project, which uses various classification Algorithms and NLP to classify the news into FAKE/REAL, on the basis of their Title and Body-Content. Data has been  collected from 3 different sources and uses algorithms like Random Forest, SVM, Wordtovec and Logistic Regression. It gave 94% accuracy overall, otherwise various comparisons are made from different classification algorithms used.
 
 The Source code folder having below files
  Scrapping Data Folder
